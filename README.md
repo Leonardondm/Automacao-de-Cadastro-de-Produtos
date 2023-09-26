@@ -24,14 +24,14 @@ O arquivo "produtos.csv" contém informações sobre os produtos a serem cadastr
 Clone este repositório para o seu ambiente local:
 
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Leonardondm/Automacao-de-Cadastro-de-Produtos
 ```
  Instale as dependências necessárias. Você pode criar um ambiente virtual para isso:
 
 ```
 cd nome-do-repositorio
 python -m venv venv
-source venv/bin/activate  # No Windows, utilize "venv\Scripts\activate"
+source venv/bin/activate  / No Windows, utilize "venv\Scripts\activate"
 pip install -r requirements.txt
 ```
 
